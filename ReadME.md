@@ -1,7 +1,12 @@
-## Tutorial on Hypergraph Neural Network 
+## Tutorial on Hypergraph Networks 
 
 
 This lab is designed to showcase and familiarise you with the basics of learning on hypergraphs. It will encompass both the theory behind hypergraph networks and putting them into practice.
+
+<center>
+<img src="https://drive.google.com/uc?export=view&id=14jKa3j3Q6dCz23akR4BuYeG68E2_TY7v"  width="300">
+</center>
+
 
 The lab is split into 4 main parts.
 
