@@ -30,3 +30,5 @@ The lab is split into 4 main parts.
 * Hypergraph attention networks
 
 **Caveat:** This lab has been put together by me, an individual with no formal qualifications or expertise in the field. **If you find any mistakes please raise it as an issue or get in touch directly at hypergraph.practical@gmail.com !**
+
+Likewise, please get in touch with any feedback from the tutorial via email.
