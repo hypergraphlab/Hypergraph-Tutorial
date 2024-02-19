@@ -32,4 +32,5 @@ The lab is split into 4 main parts.
 **If you find any mistakes please raise it as an issue or get in touch directly at hypergraph.practical@gmail.com !**
 
 Likewise, please get in touch with any feedback from the tutorial via email.
+
 Daniel
